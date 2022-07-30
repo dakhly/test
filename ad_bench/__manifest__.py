@@ -11,7 +11,11 @@
 This module contains all the common features of Financail Reports.
     """,
     'depends': [],
-    'data': [],
+    'data': [
+        'security/ir.model.access.csv',
+        'views/menu.xml',
+        'views/client_view.xml',
+    ],
     'demo': [],
     'application': True,
     'auto_install': False,

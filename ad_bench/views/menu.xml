@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<odoo>
+
+    <menuitem id="menu_bench_root"
+        name="Bench"
+        web_icon="ad_bench,static/description/report.png"
+        sequence="0"/>
+
+    <menuitem id="menu_bench_master"
+        name="Client Details"
+        parent="menu_bench_root"
+        sequence="0"/>
+
+</odoo>
