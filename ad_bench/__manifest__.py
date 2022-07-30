@@ -1,14 +1,14 @@
 
 
 {
-    'name': 'Bench Financail Rrport',
+    'name': 'Bench Financial Report',
     'version': '15.0.1.0.0',
     'category': 'Accounting',
     'author': 'Ahmed Dakhly',
     'sequence': '-100',
-    'summary': 'Financail Managment',
+    'summary': 'Financial Management',
     'description': """
-This module contains all the common features of Financail Reports.
+This module contains all the common features of Financial Reports.
     """,
     'depends': [],
     'data': [
